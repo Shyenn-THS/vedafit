@@ -1,0 +1,49 @@
+{
+  "name": "ecell_nitb_hackathon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.15",
+    "@next/font": "13.1.6",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@thirdweb-dev/sdk": "^3.8.2",
+    "@types/js-cookie": "^3.0.2",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "@types/uuid": "^9.0.0",
+    "axios": "^1.3.2",
+    "chart.js": "^4.2.1",
+    "classnames": "^2.3.2",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "ethers": "5",
+    "firebase": "^9.17.1",
+    "js-cookie": "^3.0.1",
+    "moment": "^2.29.4",
+    "next": "^13.1.6",
+    "next-auth": "^4.19.2",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.1",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.7.1",
+    "react-social-icons": "^5.15.0",
+    "rippleui": "^1.8.1",
+    "tailwind-scrollbar": "^2.1.0",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6"
+  }
+}
